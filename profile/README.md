@@ -1,6 +1,5 @@
 # Cartesi VS Code Extension
-
-![Cartesi Logo](https://cartesi.io/logo.png) ![VS Code Icon](https://code.visualstudio.com/assets/images/code-stable.png)
+![image](https://github.com/user-attachments/assets/11457daf-fcc7-4daa-98c3-d3125dcf7814)
 
 ## Overview
 The **Cartesi VS Code Extension** is designed to enhance the developer experience by providing seamless integration with the Cartesi ecosystem. This extension offers essential tools to build, test, and deploy Cartesi Rollups and Machines directly within Visual Studio Code.
