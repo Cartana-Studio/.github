@@ -41,7 +41,7 @@ The **Cartesi VS Code Extension** is designed to enhance the developer experienc
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rollupstudio/cartesi-vscode-extension.git
+   git clone https://github.com/BUIDLwithCartesi/cartesi-vscode-extension.git
    cd cartesi-vscode-extension
    ```
 2. Install dependencies:
@@ -92,7 +92,7 @@ We welcome contributions to improve the Cartesi VS Code Extension. Follow these 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
-For issues or feature requests, open an issue in the [GitHub repository](https://github.com/rollupstudio/cartesi-vscode-extension/issues).
+For issues or feature requests, open an issue in the [GitHub repository](https://github.com/BUIDLwithCartesi/cartesi-vscode-extension/issues).
 
 ## Acknowledgments
 Special thanks to the Cartesi team for their support and for providing the tools that made this extension possible.
