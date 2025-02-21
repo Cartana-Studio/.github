@@ -7,35 +7,43 @@ The **Cartesi VS Code Extension** is designed to enhance the developer experienc
 ## Features
 
 ### 1. Code Editor Enhancements
-- 🧑‍💻 **Syntax Highlighting**: Supports Cartesi-specific formats like `.yaml`, `.json`, and `.lua`.
-- 📄 **Code Snippets**: Provides reusable code templates for Cartesi Rollups and Machines.
+🧑‍💻 **Syntax Highlighting**: Supports Cartesi-specific formats like `.yaml`, `.json`, and `.lua`.
+
+📄 **Code Snippets**: Provides reusable code templates for Cartesi Rollups and Machines.
 
 ### 2. Debugging and Testing
-- 🐞 **Debug Adapter Protocol (DAP) Integration**: Step through Cartesi Machine execution.
-- 🧪 **Cartesi Emulator Support**: Run and debug applications directly within VS Code.
+🐞 **Debug Adapter Protocol (DAP) Integration**: Step through Cartesi Machine execution.
+
+🧪 **Cartesi Emulator Support**: Run and debug applications directly within VS Code.
 
 ### 3. Build and Deployment
-- ⚙️ **Task Automation**: Automate Cartesi CLI commands using VS Code tasks.
-- 🖥️ **Custom Terminal**: Pre-configured terminal for Cartesi development workflows.
+⚙️ **Task Automation**: Automate Cartesi CLI commands using VS Code tasks.
+
+🖥️ **Custom Terminal**: Pre-configured terminal for Cartesi development workflows.
 
 ### 4. Documentation Access
-- 📚 **Inline Documentation**: Access Cartesi SDK and library documentation without leaving the editor.
-- 📖 **In-Editor Tutorials**: Step-by-step guides for onboarding new developers.
+📚 **Inline Documentation**: Access Cartesi SDK and library documentation without leaving the editor.
+
+📖 **In-Editor Tutorials**: Step-by-step guides for onboarding new developers.
 
 ### 5. Blockchain State Tools
-- 🔍 **State Explorer**: Visualize Cartesi Rollups data (inputs, outputs, and disputes).
-- 🔗 **API Query Tools**: Query and inspect Rollups state using Cartesi APIs.
+🔍 **State Explorer**: Visualize Cartesi Rollups data (inputs, outputs, and disputes).
+
+🔗 **API Query Tools**: Query and inspect Rollups state using Cartesi APIs.
 
 ### 6. AI Integration
-- 🤖 **AI-Assisted Coding**: Cartesi-specific code suggestions powered by GitHub Copilot.
-- 🔒 **Security Analysis**: AI-driven contract optimization and security checks.
+🤖 **AI-Assisted Coding**: Cartesi-specific code suggestions powered by GitHub Copilot.
+
+🔒 **Security Analysis**: AI-driven contract optimization and security checks.
 
 ## Installation
 
 ### Prerequisites
-- 🧰 **Visual Studio Code**: Install from [VS Code official site](https://code.visualstudio.com/).
-- 📦 **Node.js**: Download from [Node.js official site](https://nodejs.org/).
-- 📊 **Cartesi CLI**: Set up using the [Cartesi documentation](https://cartesi.io/docs).
+🧰 **Visual Studio Code**: Install from [VS Code official site](https://code.visualstudio.com/).
+
+📦 **Node.js**: Download from [Node.js official site](https://nodejs.org/).
+
+📊 **Cartesi CLI**: Set up using the [Cartesi documentation](https://cartesi.io/docs).
 
 ### Installation Steps
 1. Clone the repository:
@@ -59,8 +67,9 @@ The **Cartesi VS Code Extension** is designed to enhance the developer experienc
 ## Usage
 
 ### Commands
-- 🚀 **Run Emulator**: `Cartesi: Run Emulator` - Launch the Cartesi emulator.
-- 📘 **Show Documentation**: `Cartesi: Show Documentation` - Open Cartesi documentation.
+🚀 **Run Emulator**: `Cartesi: Run Emulator` - Launch the Cartesi emulator.
+
+📘 **Show Documentation**: `Cartesi: Show Documentation` - Open Cartesi documentation.
 
 ### Configuration
 Set the Cartesi Emulator path using the `CARTESI_EMULATOR_PATH` environment variable:
