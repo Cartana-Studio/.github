@@ -1,5 +1,5 @@
 # Cartesi VS Code Extension
-![Untitled design (3)](https://github.com/user-attachments/assets/a03511db-6feb-4cc3-8456-368563cfc144)
+![Blue Sky Photo Rainbow Facebook Cover (1)](https://github.com/user-attachments/assets/4d58f355-ee8e-446a-8a8a-9bdfed24e73b)
 
 ## Overview
 The **Cartesi VS Code Extension** is designed to enhance the developer experience by providing seamless integration with the Cartesi ecosystem. This extension offers essential tools to build, test, and deploy Cartesi Rollups and Machines directly within Visual Studio Code.
