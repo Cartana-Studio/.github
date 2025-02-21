@@ -31,11 +31,6 @@ The **Cartesi VS Code Extension** is designed to enhance the developer experienc
 
 🔗 **API Query Tools**: Query and inspect Rollups state using Cartesi APIs.
 
-### 6. AI Integration
-🤖 **AI-Assisted Coding**: Cartesi-specific code suggestions powered by GitHub Copilot.
-
-🔒 **Security Analysis**: AI-driven contract optimization and security checks.
-
 ## Installation
 
 ### Prerequisites
