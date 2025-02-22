@@ -8,7 +8,7 @@ Cartana Labs is dedicated to building cutting-edge development tools for the **C
 #### 1️⃣ Cartana – AI-Powered IDE Extension
 #### 2️⃣ Cartana Cloud – Remote Testing & Debugging
 #### 3️⃣ Cartana Developer Toolkit
-#### 4️⃣ Cartana Marketplac - Community-built extensions
+#### 4️⃣ Cartana Marketplace - Community-built extensions
 
 ## 🛠️ Get Started
 📌 Stay tuned for **installation guides** and **developer documentation**!
