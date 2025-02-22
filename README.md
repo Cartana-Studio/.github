@@ -1,2 +1,2 @@
 # .github
-The Cartesi VS Code Extension enhances the development experience by providing seamless integration with the Cartesi ecosystem. It offers advanced tools for building, testing, and deploying Cartesi Rollups and Machines directly within Visual Studio Code.
+Cartana Labs is an open-source initiative dedicated to enhancing the Cartesi Rollup ecosystem with cutting-edge developer tools, AI-driven assistance, and seamless automation. Our goal is to simplify smart contract development, debugging, and deployment for Cartesi dApps, making blockchain development more accessible and efficient.
