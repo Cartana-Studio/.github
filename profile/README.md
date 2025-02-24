@@ -17,6 +17,6 @@ We welcome contributions from the community! Join us in building the future of *
 ### 📬 Contact & Updates
 - **Twitter:** [@CartanaLabs](https://twitter.com/CartanaLabs)
 - **Discord:** [Join our community](#)
-- **Website:** [cartanalabs.io](#) (**Coming Soon**)
+- **Website:** [cartana.io](#) (**Coming Soon**)
 
 🚀 **Cartana Labs – Powering the Future of Cartesi Development!**
