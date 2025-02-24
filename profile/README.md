@@ -1,4 +1,3 @@
-# 🚀 Cartana Labs
 Cartana Labs is dedicated to building cutting-edge development tools for the **Cartesi Rollup ecosystem**. Our mission is to enhance the developer experience by providing **AI-powered assistance, debugging tools, and seamless automation** for Cartesi dApp development.
 
 ### 🔥 What We’re Building
