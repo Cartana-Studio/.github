@@ -1,4 +1,4 @@
-Cartana Labs is dedicated to building cutting-edge development tools for the **Cartesi Rollup ecosystem**. Our mission is to enhance the developer experience by providing **AI-powered assistance, debugging tools, and seamless automation** for Cartesi dApp development.
+Cartana Studio is dedicated to building cutting-edge development tools for the **Cartesi Rollup ecosystem**. Our mission is to enhance the developer experience by providing **AI-powered assistance, debugging tools, and seamless automation** for Cartesi dApp development.
 
 ### 🔥 What We’re Building
 
@@ -14,8 +14,8 @@ Cartana Labs is dedicated to building cutting-edge development tools for the **C
 We welcome contributions from the community! Join us in building the future of **Cartesi development** by contributing to our **open-source projects**.
 
 ### 📬 Contact & Updates
-- **Twitter:** [@CartanaLabs](https://twitter.com/CartanaLabs)
+- **Twitter:** [@Cartana](https://twitter.com/Cartana)
 - **Discord:** [Join our community](#)
 - **Website:** [cartana.io](#) (**Coming Soon**)
 
-🚀 **Cartana Labs – Powering the Future of Cartesi Development!**
+🚀 **Cartana Studio – Powering the Future of Cartesi Development!**
