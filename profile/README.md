@@ -1,3 +1,5 @@
+![Cartana Studio](https://github.com/user-attachments/assets/d7875ee0-fa2f-4c10-b076-e59d6e1a2e4c)
+
 Cartana Studio is dedicated to building cutting-edge development tools for the **Cartesi Rollup ecosystem**. Our mission is to enhance the developer experience by providing **AI-powered assistance, debugging tools, and seamless automation** for Cartesi dApp development.
 
 ### 🔥 What We’re Building
