@@ -18,6 +18,6 @@ We welcome contributions from the community! Join us in building the future of *
 ### 📬 Contact & Updates
 - **Twitter:** [@Cartana](https://twitter.com/Cartana)
 - **Discord:** [Join our community](#)
-- **Website:** [cartana.io](#) (**Coming Soon**)
+- **Website:** [https://cartana.studio/](#)
 
 🚀 **Cartana Studio – Powering the Future of Cartesi Development!**
